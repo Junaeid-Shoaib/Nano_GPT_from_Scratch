@@ -1,4 +1,4 @@
-# GPT-from-Scratch 🧠
+# GPT-from-Scratch 
 
 A small GPT-style language model built completely from scratch in PyTorch, following the Transformer architecture.
 
